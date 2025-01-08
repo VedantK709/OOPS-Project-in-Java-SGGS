@@ -1,1 +1,1 @@
-# CGPA-Calculator-in-Java
+# OOPS-Project-in-Java-SGGS
