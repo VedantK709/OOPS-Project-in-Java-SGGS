@@ -1,4 +1,0 @@
-Logic: HashGenerator.Java
-UI: Swing
-MD5: https://www.geeksforgeeks.org/what-is-the-md5-algorithm/
-SHA256: https://www.geeksforgeeks.org/sha-256-hash-in-java/
