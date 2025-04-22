@@ -83,10 +83,3 @@ The application features a clean, modern interface with:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
-## License Information
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact Information
-
-For any questions or support, please reach out to [your-email@example.com].
